@@ -1,0 +1,18 @@
+{
+    "name": "react-native-circular-viewpager",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "dependencies": {
+        "@react-native-community/viewpager": "3.3.0"
+    },
+    "peerDependencies": {
+        "react": "*",
+        "react-native": ">=0.60.0"
+    },
+    "author": "Kartik Malik <kartikmalik06@gmail.com>",
+    "license": "MIT"
+}
