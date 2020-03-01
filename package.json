@@ -1,6 +1,6 @@
 {
     "name": "react-native-circular-viewpager",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "Circular view pager for React native. Supported platform IOS and Android.",
     "homepage": "https://github.com/kartikmalik06/react-native-circular-viewpager",
     "repository": {
